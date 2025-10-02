@@ -1,2 +1,12 @@
-# Student Datbase
-This repository contains a Student Database system designed to store, manage, and retrieve student information efficiently. It allows users to add, update, delete, and view student records such as personal details, enrollment information, academic performance, and contact information. The database is structured for easy querying, reporting, and analysis, making it suitable for educational institutions, instructors, and administrative staff to maintain organized and accessible student records.
+Student Database System 📝
+
+A Python GUI app to manage student records easily. Add, update, delete, and view students with a simple interface. Visualize data with Matplotlib and store it securely using MySQL.
+
+Tech Used: Python | Tkinter | MySQL | Matplotlib
+
+Run:
+
+python studentsbase.py
+
+
+Manage student data efficiently and visually!
